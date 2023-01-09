@@ -35,7 +35,7 @@ color_list = [(210, 161, 84), (130, 63, 105), (71, 102, 142), (234, 210, 97), (2
 
 
 tina = Turtle()
-tina.shape("turtle")
+tina.hideturtle()
 tina.speed(0)
 
 # create the screen, set the screen color-mode in order to use rgb 0-255 numbers
